@@ -1,0 +1,4 @@
+org\anomalydetection\rabbitmq\Server\RPCServer$1.class
+org\anomalydetection\rabbitmq\Client\RPCClient.class
+org\anomalydetection\rabbitmq\Client\RPCClient$1.class
+org\anomalydetection\rabbitmq\Server\RPCServer.class
